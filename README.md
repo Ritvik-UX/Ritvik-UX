@@ -4,7 +4,7 @@ I'm Ritvik, UX and Ai Enthusiast.
 - ❤️ Blend of UX and AI to build Creative and Immersive Experiences From Both the Company and User Perspective
 - 👯 All time Ready to Collaborate on any Challenging UX Project
 - ⚡ Fun Fact: I love UX, but at the same time like to Code.
-- 💬 Reach Out at: [LinkedIn](https://www.linkedin.com/in/ritvik-ux/) and [Gmail](mailto:mailto:ritvikux@gmail.com?subject=[Contact-Github])
+- 💬 Reach Out via [LinkedIn](https://www.linkedin.com/in/ritvik-ux/) and [Gmail](mailto:mailto:ritvikux@gmail.com?subject=[Contact-Github])
 <br><br><br>
 ## Writings ✍️
 [![9 Ways To Create Agile Development Environment with Minimal Coding | CIO Insight](https://cioinsight.com/it-strategy/create-agile-development-environment-with-minimal-coding/<OWNER>/<OWNER>/readme_header.png "CIO Insight: Enterprise Technology News & Trends for CIOs")](https://cioinsight.com/it-strategy/create-agile-development-environment-with-minimal-coding/)
