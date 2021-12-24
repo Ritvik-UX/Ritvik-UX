@@ -1,7 +1,7 @@
 ## Hi There 👋
 I'm Ritvik, UX and Ai Enthusiast.
 <br>
-- ❤️ Blend of UX and AI to build Creative and Immersive Experiences From Both the Company and User Perspective
+- ❤️ Blend of UX and AI to build Data Driven Creative and Immersive Experiences From Both the Company and User Perspective
 - 👯 All time Ready to Collaborate on any Challenging UX Project
 - ⚡ Fun Fact: I love UX, but at the same time like to Code.
 - 💬 Reach Out via [LinkedIn](https://www.linkedin.com/in/ritvik-ux/) and [Gmail](mailto:mailto:ritvikux@gmail.com?subject=[Contact-Github])
